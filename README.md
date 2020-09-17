@@ -8,7 +8,7 @@ Included are two programs:
 2. validation_analyticalsolution.py
 
 ## 1. discus_trajectory.py
-This is a program to comptue the trajectory of a discus from when it leaves the thrower's hand until it hits the ground.
+This is a program to compute the trajectory of a discus from when it leaves the thrower's hand until it hits the ground.
 The program takes the following input parameters: 
 - intial x-position, x_0 (m)
 - initial y-position, y_0 (m)
@@ -57,6 +57,7 @@ If the outputs match each other, then the program file discus_trajectory.py can 
 
 ## Authors and Acknowledgements
 Author: Harriet Carlile
+
 Date: 17.09.20
 
 ### References: 
